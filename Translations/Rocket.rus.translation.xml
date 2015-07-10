@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TranslationEntry Id="rocket_join_public" Value="{0} подключился к серверу" />
+  <TranslationEntry Id="rocket_leave_public" Value="{0} отключился от сервера" />
+  <TranslationEntry Id="rocket_restart_warning_public" Value="Рестарт через 30 секунд." />
+  <TranslationEntry Id="command_generic_failed_find_player" Value="Игрок не найден" />
+  <TranslationEntry Id="command_generic_invalid_parameter" Value="Неверный параметр" />
+  <TranslationEntry Id="command_generic_target_player_not_found" Value="Указанный игрок не найден" />
+  <TranslationEntry Id="command_generic_teleport_while_driving_error" Value="Вы не можете телепортироваться во время езды." />
+  <TranslationEntry Id="command_god_enable_console" Value="{0} enabled Godmode" />
+  <TranslationEntry Id="command_god_enable_private" Value="Режим бога включен..." />
+  <TranslationEntry Id="command_god_disable_console" Value="{0} disabled Godmode" />
+  <TranslationEntry Id="command_god_disable_private" Value="Режим бога отключен..." />
+  <TranslationEntry Id="command_vanish_enable_console" Value="{0} enabled Vanishmode" />
+  <TranslationEntry Id="command_vanish_enable_private" Value="Вы стали невидимы для других игроков..." />
+  <TranslationEntry Id="command_vanish_disable_console" Value="{0} disabled Vanishmode" />
+  <TranslationEntry Id="command_vanish_disable_private" Value="Вы стали видимы для других игроков..." />
+  <TranslationEntry Id="command_duty_enable_console" Value="{0} is in duty" />
+  <TranslationEntry Id="command_duty_enable_private" Value="Вы перешли в режим обычного игрока" />
+  <TranslationEntry Id="command_duty_disable_console" Value="{0} is no longer in duty" />
+  <TranslationEntry Id="command_duty_disable_private" Value="Вы вышли из режима обычного игрока" />
+  <TranslationEntry Id="command_bed_no_bed_found_private" Value="У Вас нет кровати, чтобы телепортироваться." />
+  <TranslationEntry Id="command_i_giving_console" Value="Giving {0} item {1}:{2}" />
+  <TranslationEntry Id="command_i_giving_private" Value="Вы получили предмет/ы : {0}x {1} ({2})" />
+  <TranslationEntry Id="command_z_giving_console" Value="Spawning {1} zombies near {0}" />
+  <TranslationEntry Id="command_z_giving_private" Value="Заспавнено {0} зомби." />
+  <TranslationEntry Id="command_i_giving_failed_private" Value="Ошиибка выдачи предмета/ов : {0}x {1} ({2})" />
+  <TranslationEntry Id="command_v_giving_console" Value="Giving {0} vehicle {1}" />
+  <TranslationEntry Id="command_v_giving_private" Value="Вам выдан автомобиль : {0} ({1})" />
+  <TranslationEntry Id="command_v_giving_failed_private" Value="Ошибка в выдаче автомобиля : {0} ({1})" />
+  <TranslationEntry Id="command_tps_tps" Value="TPS: {0}" />
+  <TranslationEntry Id="command_tps_running_since" Value="TPS с : {0} UTC" />
+  <TranslationEntry Id="command_p_reload_private" Value="Возможности перезагруженны." />
+  <TranslationEntry Id="command_p_groups_private" Value="{0} 's группы : {1}" />
+  <TranslationEntry Id="command_p_permissions_private" Value="{0} 's возможности : {1}" />
+  <TranslationEntry Id="command_tp_teleport_console" Value="{0} teleported to {1}" />
+  <TranslationEntry Id="command_tp_teleport_private" Value="Teleported to {0}" />
+  <TranslationEntry Id="command_tp_failed_find_destination" Value="Объект телепорта не найден" />
+  <TranslationEntry Id="command_tphere_teleport_console" Value="{0} was teleported to {1}" />
+  <TranslationEntry Id="command_tphere_teleport_from_private" Value="{0} был телепортирован к вам" />
+  <TranslationEntry Id="command_tphere_teleport_to_private" Value="Вы были телепортированы к {0}" />
+  <TranslationEntry Id="command_clear_error" Value="There was an error clearing {0} inventory." />
+  <TranslationEntry Id="command_clear_private" Value="Ваш инвентарь был успешно очищен" />
+  <TranslationEntry Id="command_clear_other" Value="Ваш инвентарь был очишен {0}!" />
+  <TranslationEntry Id="command_clear_other_success" Value="Вы очистили инвентарь {0} " />
+  <TranslationEntry Id="command_investigate_private" Value="СтимID игрока {0} : {1}" />
+  <TranslationEntry Id="command_heal_success_me" Value="{0} успешно восстановил здоровье" />
+  <TranslationEntry Id="command_heal_success_other" Value="{0} успешно восстановил вам здоровье" />
+  <TranslationEntry Id="command_heal_success" Value="Вы восстановили своё здоровье" />
+  <TranslationEntry Id="command_compass_facing_private" Value="Компас направлен на игрока {0}" />
+  <TranslationEntry Id="command_compass_north" Value="Сев" />
+  <TranslationEntry Id="command_compass_east" Value="Вос" />
+  <TranslationEntry Id="command_compass_south" Value="Юг" />
+  <TranslationEntry Id="command_compass_west" Value="Зап" />
+  <TranslationEntry Id="command_compass_northwest" Value="Сев-Зап" />
+  <TranslationEntry Id="command_compass_northeast" Value="сев-Вос" />
+  <TranslationEntry Id="command_compass_southwest" Value="Юг-Зап" />
+  <TranslationEntry Id="command_compass_southeast" Value="Юг-Вос" />
+  <TranslationEntry Id="command_rocket_plugins_loaded" Value="Plugins loaded: {0}" />
+  <TranslationEntry Id="command_rocket_plugins_unloaded" Value="Plugins unloaded: {0}" />
+  <TranslationEntry Id="command_rocket_reload_plugin" Value="Reloading {0}" />
+  <TranslationEntry Id="command_rocket_not_loaded" Value="The plugin {0} is not loaded" />
+  <TranslationEntry Id="command_rocket_unload_plugin" Value="Unloading {0}" />
+  <TranslationEntry Id="command_rocket_load_plugin" Value="Loading {0}" />
+  <TranslationEntry Id="command_rocket_already_loaded" Value="The plugin {0} is already loaded" />
+  <TranslationEntry Id="command_rocket_reload" Value="Reloading Rocket" />
+  <TranslationEntry Id="command_p_group_not_found" Value="Group not found" />
+  <TranslationEntry Id="command_p_group_assigned" Value="{0} was assigned to the group {1}" />
+  <TranslationEntry Id="command_rocket_plugin_not_found" Value="Plugin {0} not found" />
+  <TranslationEntry Id="command_clear_success" Value="Вы успешно очистили {0} предметов" />
+</Translations>
